@@ -1,0 +1,85 @@
+M --  MONGODB  (NOSQL based database)
+
+E --  Express JS (it is web framework that provide web server to deploy node js program)
+
+R --  React JS (it is JS library that is used to create Modern UI(user interface) using Html web page)
+
+N --  NODE JS(it is backend based JS library that is used to create program logic,database connection and server side operation to implement dynamic programming)
+
+
+it is used to create api based dynamic web application and mobile application business logic.
+
+1)  REACT JS DEVELOPER
+
+2)  NODE JS DEVELOPER
+
+3)  Full stack web developer
+
+4)  Mobile backend developer
+
+5)  AI Developer
+
+Workflow:-
+
+1)  Front-end:-  HTML, CSS, JS, ES(6-12), Bootstrap, React JS
+
+2)  Backend:-  NODE JS , Express JS
+
+3)  Database:-  MONGODB,  MONGODB + NODE JS, MONGODB + NODE JS + EXPRESS
+
+4)  Integration :-   REACT + API
+
+5)  Library:   REDUX + API
+
+6)  DEPLOYMENT:-  AWS SERVER (CLOUD)
+
+7)  API Testing
+
+9)  TOOLS:- git, github, jenkins, docker
+
+10)  Project with Project Management Tool:- JIRA
+
+.............................................................
+What is HTML?
+
+<html>
+<head>
+  <title>imp keyword</title>
+  <style>
+  </style>
+   <script>
+   </script>
+   <meta />
+</head>
+<body>
+<h1>Hello World</h1>
+
+</body>
+</html>
+
+
+it means hypertext markup language that is used to create user interface using static web page (.htm,.html) and dynamic web page(.jsp,.jsf,.asp,.aspx,.php) both.
+
+hypertext means text within tag.
+
+markup means predefine.
+
+html will be parsed by HTML parser under web browser, every browser support HTML content without any library or plugin.
+
+HTML 5 is the latest version that provide many modern tag , canvas, audio, video, map, webcam, sementic tag, polygon, vector.
+
+
+Table tag</b>:-  <i>it is the main container tag of HTML that is used to divide the html section into multiple rows and columns</i>.</p>
+
+<p>
+it uses  following predefine element.
+
+<table></table>:- it is parent tag to design table
+<tr></tr>:-  it first child tag that contain set of columns
+<td></td>:-  it is a child tag of <tr> that contain set of columns.
+<th></th>:-  it is called table header tag that is the child of <tr> tag. it is used to write table column title.
+</p>
+
+
+
+
