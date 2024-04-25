@@ -81,5 +81,25 @@ it uses  following predefine element.
 </p>
 
 
+List element:-  it is used to display set of items based on order,unorderd and defination list format.
 
+Unordered List:- element can be stored without any sequence.
+
+<ul>
+<li>item1</li>
+<li>item2</li>
+....
+</ul>
+
+
+Image Tag in Html:-
+
+it is used to display image under web page
+
+<img src="path" alt="text" title="" >
+
+Hyperlink
+it is used to navigate from one page to another using link text or link image.
+
+<a href="path">text</a>
 
