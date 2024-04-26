@@ -96,10 +96,57 @@ Image Tag in Html:-
 
 it is used to display image under web page
 
-<img src="path" alt="text" title="" >
+<img src="path" alt="text" title="" />
 
 Hyperlink
 it is used to navigate from one page to another using link text or link image.
 
 <a href="path">text</a>
+
+...................................................
+<b></b>:- it is used to covert normal text to bold text
+
+<i></i>:- it is used to convert normal text to italik text
+..............................................................
+
+<strike></strike>:-  it is used to cross text
+
+<mark></mark>:-  it is used to highlight the content
+
+<strong></strong>:- it is also the part of bold text but it is used to provide better keyword to SEO.
+
+
+<sup></sup>:-  it is used to create superscript based text
+
+<sub></sub>:-  it is used to create subscript based text
+
+<iframe></iframe>:- it is used to link the external content into website.
+
+
+<span></span>:-  it is used to display the inline text, span width and hieght both are auto.
+
+<div></div>:-  it is used to create empty box or container of page , most of the cases <div> 
+
+is used to create page layout. it's default width is 100% and height is auto.
+
+.......................................................
+<fieldset> and <legend>:- 
+
+it is used to create title box , legend is used to provide
+
+<center></center>:-  it is used to display the content on center
+
+<marquee>:-
+
+it is used to rotate the content from left to roght and right to left
+
+
+
+
+
+
+
+
+
+
 
