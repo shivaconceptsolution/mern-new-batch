@@ -1,0 +1,64 @@
+*
+{
+    margin: 0px;
+}
+header
+{
+    height: 100px;
+    background-color: blue;
+    color:white;
+}
+
+.logo
+{
+    float:left;
+    width:50%;
+}
+.menu
+{
+    float:right;
+    width:50%;
+}
+.menu ul li
+{
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 20px;
+}
+section article
+{
+    height: 500px;
+    background-color: gray;
+    width:60%;
+    float:left;
+}
+
+section aside
+{
+    height: 500px;
+    background-color: burlywood;
+    width: 40%;
+    float:left;
+}
+footer
+{
+    clear: both;
+    background-color: blue;
+    height: 100px;
+}
+p,span{
+            color:yellow;
+            background-color: blueviolet;
+        }
+.changeparapgraphcolor
+        {
+            background-color: red;
+            color:green;
+        }
+
+#changeparagraphcolor
+        {
+            background-color: black;
+            color:green;
+        }
+

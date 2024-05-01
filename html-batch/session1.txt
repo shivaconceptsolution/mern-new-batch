@@ -140,6 +140,196 @@ it is used to create title box , legend is used to provide
 
 it is used to rotate the content from left to roght and right to left
 
+HTML Form Elements:
+
+It is used to design the form 
+
+<form></form>:- it is form container that is used to contain various form elements.
+such as textfield, button,radio button,checkbox.
+
+it contain method attribute to provide form HTTP Method.
+
+<form method="POST" action="#">
+
+
+
+</form>
+
+
+Label:-  it is used to write static content of form element.
+
+<label for="name">Content</label>
+
+Textfield or Textbox or Inputbox:-
+
+It is used to take the input form user's.
+
+Plain Text:-
+
+<input type="text" name="txt1" placeholder="hint message"  />
+
+Password Text , Secure Text
+
+<input type="password" name="txt1" placeholder="hint message"  />
+
+Nuemeric Text
+
+<input type="number" name="name" placeholder="hint message"  />
+
+Date field
+
+<input type="date" name="name" placeholder="hint message"   />
+
+Email field
+
+<input type="email" name="name" placeholder="hint message"  />
+
+Radio Button:-
+It is used to choose single item in a group of items.
+<input type="radio" name="course" value="C" />C
+<br>
+<input type="radio" name="course" value="CPP" />CPP
+<br>
+<input type="radio" name="course" value="DSA" />DSA
+
+Button:-
+
+1) Submit Button:-  it is used to submit the form because it contain onsubmit() internally.
+
+<input type="submit" value="caption" name="name"  />
+
+2) Reset Button:- it is used to clear the form elements data, it contain reset() internally.
+
+<input type="reset" value="caption" name="name"  />
+
+3)  Normal Button:- it is used to click on the web page.
+
+<input type="button" value="caption" name="name"  />
+
+checkbox or Checkbutton:-
+
+It is used to choose multiple items in a group of items. checkbox provide
+checked and unchecked based event operation.
+
+<input type="checkbox" name="name" value="Value" />Caption
+<input type="checkbox" name="name" value="Value" />Caption
+
+
+dropdownlist or selectbox:-
+
+it is used to select single item in a gorup of items.
+<select>
+     <option value="">Select Course</option>
+     <option value="1001">C</option>
+     <option value="1002">C++</option>
+     <option value="1003">DS</option>
+</select>
+
+Listbox or multi-selectbox:-
+
+it is used to select multiple items in a gorup of items.
+<select multiple>
+    
+     <option value="1001">C</option>
+     <option value="1002">C++</option>
+     <option value="1003">DS</option>
+</select>
+
+
+Textarea:-
+............................................
+it is used to write multi-line text under form elements.
+
+<textarea rows="10" cols="30">
+
+</textarea>
+
+File Uploader:-
+
+It is used to upload external file into application.
+
+<input type="file" name="file" />
+.........................................................
+
+What is CSS?
+
+it means cascading stylesheet , it is used to provide property to HTML
+element. css contains various property to design HTML web page.
+
+Type of CSS
+1) inline css: we define CSS under HTML elements, it is similar to HTML
+
+attribute.
+
+<input type="text" style="width:200px;height:35px;" />
+
+2) internal css:-  we define CSS under HTML head section using 
+<style>
+
+</style>
+
+it contains three different type of block to define css property.
+
+htmltagblock
+{
+
+
+}
+
+.classblock
+{
+
+}
+
+#block
+{
+
+}
+
+p{
+     background-color:red;
+}
+
+<p>dhfdhf hdf</p>
+.changeparacolor
+{
+      background-color:red;
+}
+
+<p class="changeparacolor">sdsdddafd</p>
+
+#changeparacolor
+{
+     background-color:red;
+}
+
+<p id="changeparacolor">welcome in scs</p>
+
+
+
+What is difference between #block and .block?
+
+#block will be called by ID seleector and it will apply once under 
+same page.id can not be repeated.
+
+.block will be called by CLASS Selector and it can call multiple times 
+under multiple HTML elements.
+
+predefine HTML tag will be called implict(automatically)
+
+
+3) external css:-
+
+we will create separate file for css and it contains htmlblock, 
+dotblock and hashblock.
+
+it will link using <link> tag under HTML documents.
+
+most of the cases, we will prefer external css for live web application.
+
+
+
+
 
 
 
